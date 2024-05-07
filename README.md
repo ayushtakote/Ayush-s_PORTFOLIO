@@ -30,7 +30,7 @@ Recognized with Insta Award
 Experience:
 Infosys India
 as Senior System Engineer
-September 2021 – January 2024
+September 2021 – February 2024
 
 Worked on the Medicate Project in the healthcare industry, focusing on clinical and finance domains. Conducted comprehensive data analysis, implemented ETL processes, optimized data warehouse performance, and collaborated closely with technical architects.
 
